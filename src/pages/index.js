@@ -30,12 +30,12 @@ const Home = ({ className, location }) => {
     console.error('WARNING: Please set a proper googleAnalyticsId. See https://analytics.google.com for details.');
   }
 
-  const title = "Home"
+  const title = siteConfig.siteTitle
   const { keywords } = siteConfig
   return (
     <Layout location={location}>
       <SEO
-        title={title}
+        title="Home"
         keywords={keywords}
       />
 
