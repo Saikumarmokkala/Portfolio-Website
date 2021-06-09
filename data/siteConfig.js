@@ -16,7 +16,7 @@ module.exports = {
   authorskills: `
   <b>Programming Skills</b>: Java, C, Python, C#, C++, SQL, R, Pig, Hive <br />
     <b>Web Development</b>: PHP, HTML, CSS, JavaScript, ReactJS, MongoDB, JSON, Bootstrap, Node.js, WordPress, Laravel <br />
-    <b>Software Skills and Framework </b>: Windows, Linux, Eclipse, Android Studio, Spring Boot, React Native, Hadoop Map-Reduce, Scala, Sqoop <br/>
+    <b>Software Skills and Framework </b>: Windows, Linux, Eclipse, Android Studio, Spring Boot, React Native, Hadoop Map-Reduce, Scala, Kafka, Sqoop <br/>
     <b> Development Methodologies</b>: Agile/Scrum, Waterfall  </br>
     <b>Software Testing</b>: JUnit, JaCoCo, PITMutation, Jenkins, Selenium Automation </br>
     <b> Tools: </b> Google Cloud Platform, Kubernetes, CI/CD pipelines, JIRA, Vscode, AWS, Docker, Terraform, GIT
@@ -71,7 +71,7 @@ module.exports = {
       },
       duration: '2 yr- till May 2021',
       occupation: "Full Stack Developer",
-      description: " Involved in web development team, responsible for design and adding of new features to enhance user experience using ReactJS in front-end and Node.js for back-end, implemented REST API services for UTA employees."
+      description: " Responsible for adding new features to enhance user experience using ReactJS in front-end and Node.js for back-end, developed REST API services for UTA employees. Implemented orchestration with K8s, CI/CD pipelines for applications."
     },
       {
       company: "Nexgenux technologies",
@@ -81,7 +81,7 @@ module.exports = {
       },
       duration: '1 yr- till Dec 2018',
       occupation: "Software Developer (full stack)",
-      description: "Performed algorithmic development in Java with modules in Spring MVC architecture, interaction with Hibernate for database mapping and tested in JUnit, JaCoCo, PIT Mutation and Selenium. Designed and implemented the REST API services for back-end, used Maven for project management. Integrated Kafka for data ingestion and accelerating extraction of data. Used GIT for source code version control and integrated with Jenkins for CI/CD pipelines. Created docker images and orchestrated with kubernetes. Implemented cloud storage backup environment using AWS storage services."
+      description: "•	Performed algorithmic development in Java with modules in Spring MVC architecture and interaction with Hibernate for database mapping, integrated Kafka for data ingestion, acceleration of extracting data and tested in Junit, Selenium.Designed and implemented the REST API services for back-end, used Maven for project management. Integrated Kafka for data ingestion and accelerating extraction of data. Used GIT for source code version control and integrated with Jenkins for CI/CD pipelines. Created docker images and orchestrated with kubernetes. Implemented cloud storage backup environment using AWS storage services."
     }, {
       company: "Johnson Controls",
       begin: {
