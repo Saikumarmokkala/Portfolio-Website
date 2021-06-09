@@ -14,12 +14,12 @@ module.exports = {
   `,
 
   authorskills: `
-  <b>Programming Skills</b>: Java, C, C#, Python, C++, SQL, R, Pig, Hive <br />
-    <b>Web Development</b>: PHP, HTML, CSS, JavaScript, ReactJS, MongoDB, JSON, Bootstrap, Node.js, WordPress  <br />
-    <b>Software Skills and Framework </b>: Windows, Linux, Eclipse, Android Studio, Hadoop Map-Reduce, Scala, Laravel <br/>
+  <b>Programming Skills</b>: Java, C, Python, C#, C++, SQL, R, Pig, Hive <br />
+    <b>Web Development</b>: PHP, HTML, CSS, JavaScript, ReactJS, MongoDB, JSON, Bootstrap, Node.js, WordPress, Laravel <br />
+    <b>Software Skills and Framework </b>: Windows, Linux, Eclipse, Android Studio, Spring Boot, React Native, Hadoop Map-Reduce, Scala, Sqoop <br/>
     <b> Development Methodologies</b>: Agile/Scrum, Waterfall  </br>
     <b>Software Testing</b>: JUnit, JaCoCo, PITMutation, Jenkins, Selenium Automation </br>
-    <b> Tools: </b> Google Cloud Platform, Kubernetes, CI/CD pipelines, Vscode, AWS, Docker, Terraform, GIT
+    <b> Tools: </b> Google Cloud Platform, Kubernetes, CI/CD pipelines, JIRA, Vscode, AWS, Docker, Terraform, GIT
   
 `,
   skills: [
@@ -63,6 +63,16 @@ module.exports = {
   ],
   jobs: [
     /* more jobs here */
+    {
+      company: "Office of Information Technology at UT-Arlington",
+      begin: {
+        month: 'May',
+        year: '2019'
+      },
+      duration: '2 yr- till May 2021',
+      occupation: "Full Stack Developer",
+      description: " Involved in web development team, responsible for design and adding of new features to enhance user experience using ReactJS in front-end and Node.js for back-end, implemented REST API services for UTA employees."
+    },
       {
       company: "Nexgenux technologies",
       begin: {
@@ -71,7 +81,7 @@ module.exports = {
       },
       duration: '1 yr- till Dec 2018',
       occupation: "Software Developer (full stack)",
-      description: "Performed algorithmic development in Java with modules in MVC architecture, tested in JUnit, JaCoCo, PIT Mutation and Selenium. Used GIT for source code version control and integrated with Jenkins for CI/CD pipelines. Created docker images and orchestrated with kubernetes. Implemented cloud storage backup environment using AWS storage services. Involved in web development team, created analytics dashboards for optimization of real time processes using ReactJS in front-end and Node.js in back-end."
+      description: "Performed algorithmic development in Java with modules in Spring MVC architecture, interaction with Hibernate for database mapping and tested in JUnit, JaCoCo, PIT Mutation and Selenium. Designed and implemented the REST API services for back-end, used Maven for project management. Integrated Kafka for data ingestion and accelerating extraction of data. Used GIT for source code version control and integrated with Jenkins for CI/CD pipelines. Created docker images and orchestrated with kubernetes. Implemented cloud storage backup environment using AWS storage services."
     }, {
       company: "Johnson Controls",
       begin: {
@@ -80,7 +90,8 @@ module.exports = {
       },
       duration: '3 months - till Jul 2017',
       occupation: "Software Engineer Intern",
-      description: "Worked on optimization and maintenance of dynamic website using HTML, CSS and ReactJS in front-end and Firebase in back-end, that has several modules worldwide"
+      description: " Worked on code optimization and maintenance of dynamic website using ReactJS in front-end and Firebase in back-end. Implemented Bug fixation and decreased code redundancy by 5%."
+    
      
   
     },
