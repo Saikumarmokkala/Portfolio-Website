@@ -71,7 +71,7 @@ module.exports = {
       },
       duration: '2 yr- till May 2021',
       occupation: "Full Stack Developer",
-      description: " Responsible for adding new features to enhance user experience using ReactJS in front-end and Node.js for back-end, developed REST API services for UTA employees. Implemented orchestration with Kubernetes, CI/CD pipelines for applications."
+      description: " Responsible for adding new features to enhance user experience using ReactJS in front-end and Node.js for back-end, developed REST API services for UTA employees. Implemented orchestration with Kubernetes, CI/CD pipelines for applications using Gitlab."
     },
       {
       company: "Nexgenux technologies",
