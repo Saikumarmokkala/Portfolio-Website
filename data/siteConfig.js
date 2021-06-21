@@ -80,7 +80,7 @@ module.exports = {
         year: '2018'
       },
       duration: '1 yr- till Dec 2018',
-      occupation: "Software Developer (full stack)",
+      occupation: "Software Developer",
       description: " Performed algorithmic development in Java with modules in Spring MVC architecture and interaction with Hibernate for database mapping, integrated Kafka for data ingestion and acceleration of extracting data, tested in Junit, PIT Mutation and Selenium. Designed and implemented the REST API services for back-end, used Maven for project management. Used GIT for source code version control and integrated with Jenkins for CI/CD pipelines. Created docker images and orchestrated with kubernetes. Implemented cloud storage backup environment using AWS storage services."
     }, {
       company: "Johnson Controls",
